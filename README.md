@@ -8,11 +8,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🦝 About Me</h3>
 
 ###
 
-<p align="left">I'm Charlie from Madrid 🦝<br><br>- 🔭 I am working on growing professionally<br>- 📚 I'm currently learning technical tools for data analytics<br>- ⚡ In my free time I dance bachata</p>
+<p align="left">I'm Charlie from Madrid <br><br>- 🔭 I am working on growing professionally<br>- 📚 I'm currently learning technical tools for data analytics<br>- ⚡ In my free time I dance bachata</p>
 
 ###
 
