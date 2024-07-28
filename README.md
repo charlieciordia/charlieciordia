@@ -4,23 +4,26 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋" />
+
+</h1>
 
 ###
 
-<h3 align="left">🦝 About Me</h3>
+<h3 align="center">🦝 About Me</h3>
 
 ###
 
-<p align="left">I'm Charlie from Madrid <br><br>- 🔭 I am working on growing professionally<br>- 📚 I'm currently learning technical tools for data analytics<br>- ⚡ In my free time I dance bachata</p>
+<p align="center">I'm Charlie from Madrid <br><br>- 🔭 I am working on growing professionally<br>- 📚 I'm currently learning technical tools for data analytics<br>- ⚡ In my free time I dance bachata</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
