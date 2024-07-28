@@ -15,7 +15,7 @@
 
 ###
 
-<p align="center">I'm Charlie from Madrid <br><br>- 🔭 I am working on growing professionally<br>- 📚 I'm currently learning technical tools for data analytics<br>- ⚡ In my free time I dance bachata</p>
+<p align="center">I'm Charlie from Madrid <br><br>- 🔭 I am working on growing professionally<br>- 📚 I'm currently learning technical tools for data analytics<br>- ⚡ In my free time I dance salsa and bachata</p>
 
 ###
 
