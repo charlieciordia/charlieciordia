@@ -15,7 +15,7 @@
 
 ###
 
-<p align="center">I'm Charlie from Madrid <br><br>- 🔭 I am working on growing professionally<br>- 📚 I'm currently learning technical tools for data analytics<br>- ⚡ In my free time I dance salsa and bachata</p>
+<p align="center">I'm Charlie from Madrid <br><br>- 🔭 I am working on growing professionally<br>- 📚 I'm currently learning technical tools for data analytics<br>- ⚡ In my free time I dance salsa</p>
 
 ###
 
@@ -33,6 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="40" alt="Power BI logo" />
+
 </div>
 
 ###
